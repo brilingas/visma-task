@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d22ab4f2-250f-4e06-9354-2f14cf300228" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/org_mockito_mockito_core_3_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InterviewTask.iml" beforeDir="false" afterPath="$PROJECT_DIR$/InterviewTask.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/InterviewTask/com/exam/validator/CSVReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InterviewTask/com/exam/validator/CSVReader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/InterviewTask/com/exam/validator/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InterviewTask/com/exam/validator/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/InterviewTask/com/exam/validator/Neighbour.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InterviewTask/com/exam/validator/Neighbour.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/InterviewTask/com/exam/validator/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InterviewTask/com/exam/validator/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exam/validator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exam/validator/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ureyNWZr72FaZLatBUfTIipziM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mockito-3.11.2.zip!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.32413793" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.exam.validator" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.exam.validator.Main" />
+      <module name="InterviewTask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.exam.validator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentUtilsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="InterviewTask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.exam.validator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.exam.validator" />
+      <option name="MAIN_CLASS_NAME" value="com.exam.validator.StudentUtilsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentUtilsTest.applyProbability" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="InterviewTask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.exam.validator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.exam.validator" />
+      <option name="MAIN_CLASS_NAME" value="com.exam.validator.StudentUtilsTest" />
+      <option name="METHOD_NAME" value="applyProbability" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentUtilsTest.generateRandomNumbers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="InterviewTask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.exam.validator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.exam.validator" />
+      <option name="MAIN_CLASS_NAME" value="com.exam.validator.StudentUtilsTest" />
+      <option name="METHOD_NAME" value="generateRandomNumbers" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentUtilsTest.round" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="InterviewTask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.exam.validator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.exam.validator" />
+      <option name="MAIN_CLASS_NAME" value="com.exam.validator.StudentUtilsTest" />
+      <option name="METHOD_NAME" value="round" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.StudentUtilsTest" />
+        <item itemvalue="JUnit.StudentUtilsTest.round" />
+        <item itemvalue="JUnit.StudentUtilsTest.applyProbability" />
+        <item itemvalue="JUnit.StudentUtilsTest.generateRandomNumbers" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d22ab4f2-250f-4e06-9354-2f14cf300228" name="Default Changelist" comment="" />
+      <created>1625428388211</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625428388211</updated>
+      <workItem from="1625428389320" duration="50000" />
+      <workItem from="1625428633175" duration="8360000" />
+      <workItem from="1625504399648" duration="18915000" />
+      <workItem from="1625562417234" duration="16236000" />
+      <workItem from="1625907246711" duration="29220000" />
+      <workItem from="1625993254528" duration="27647000" />
+      <workItem from="1626029597179" duration="7992000" />
+      <workItem from="1626082088483" duration="1162000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="843" y="408" width="223" height="262" key="#Notifications" timestamp="1625909601451">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="843" y="408" width="223" height="262" key="#Notifications/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1625909601451" />
+    <state x="757" y="473" key="DetectedRootsChooserDialog" timestamp="1626027862158">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="757" y="473" key="DetectedRootsChooserDialog/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1626027862158" />
+    <state x="747" y="283" key="FileChooserDialogImpl" timestamp="1626027856864">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="747" y="283" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1626027856864" />
+    <state width="1874" height="333" key="GridCell.Tab.0.bottom" timestamp="1626089143599">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="333" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1626089143599" />
+    <state width="1874" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1625941295206" />
+    <state width="1874" height="333" key="GridCell.Tab.0.center" timestamp="1626089143599">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="333" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1626089143599" />
+    <state width="1874" height="285" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1625941295206" />
+    <state width="1874" height="333" key="GridCell.Tab.0.left" timestamp="1626089143599">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="333" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1626089143599" />
+    <state width="1874" height="285" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1625941295206" />
+    <state width="1874" height="333" key="GridCell.Tab.0.right" timestamp="1626089143599">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="333" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1626089143599" />
+    <state width="1874" height="285" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1625941295206" />
+    <state width="1874" height="129" key="GridCell.Tab.1.bottom" timestamp="1625524274072">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="129" key="GridCell.Tab.1.bottom/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1625524274072" />
+    <state width="1874" height="129" key="GridCell.Tab.1.center" timestamp="1625524274072">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="129" key="GridCell.Tab.1.center/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1625524274072" />
+    <state width="1874" height="129" key="GridCell.Tab.1.left" timestamp="1625524274072">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="129" key="GridCell.Tab.1.left/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1625524274072" />
+    <state width="1874" height="129" key="GridCell.Tab.1.right" timestamp="1625524274072">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="129" key="GridCell.Tab.1.right/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1625524274072" />
+    <state x="461" y="175" key="SettingsEditor" timestamp="1626028125567">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="461" y="175" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1626028125567" />
+    <state x="669" y="434" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1626028113329">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="669" y="434" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1626028113329" />
+    <state x="1194" y="112" width="625" height="692" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1626007382873">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1194" y="112" width="625" height="692" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1626007382873" />
+    <state x="340" y="142" key="new project wizard" timestamp="1625428437928">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="340" y="142" key="new project wizard/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1625428437928" />
+    <state x="668" y="298" key="refactoring.ChangeSignatureDialog" timestamp="1626010532538">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="668" y="298" key="refactoring.ChangeSignatureDialog/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1626010532538" />
+  </component>
+</project>
