@@ -36,11 +36,7 @@ public class Main {
         List<Student> students = CSVReader.parseCSV();
 
         searchCheaters(students);
-        //System.out.println("___________________________________________________________________");
-        //printCheaters();
-        //System.out.println(cheaters.size());
         applyProbability(cheaters);
-        //System.out.println("___________________________________________________________________");
         printCheaters();
     }
 }
